@@ -55,9 +55,9 @@ public class CategoryTestCase {
 	@Ignore
 	@Test
 	public void updateCategoryTestCase() {
-		category.setId("CATG1");
-		category.setName("Dental Medicine");
-		category.setDescription("for tooth pain");
+		category.setId("1");
+		category.setName("Mobile");
+		category.setDescription("Mobile with 4G features");
 
 		boolean flag = categoryDAO.update(category);
 
