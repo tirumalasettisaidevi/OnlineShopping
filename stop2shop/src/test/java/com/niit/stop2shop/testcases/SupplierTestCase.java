@@ -36,6 +36,7 @@ public class SupplierTestCase {
 
 	}
 
+	@Ignore
 	@Test
 	public void createSupplierTestCase() {
 		supplier.setId("Sup-1");

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.niit.stop2shop.testcases.ProductTestCase
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.001 sec

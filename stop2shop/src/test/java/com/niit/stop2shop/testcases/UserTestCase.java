@@ -51,7 +51,7 @@ public class UserTestCase {
 		assertEquals("createUserTestCase", true, flag);
 
 	}
-	@Ignore
+	//@Ignore
 	@Test
 	public void updateUserTestCase() {
 		user.setEmail("sanaya15@gmail.com");
@@ -60,7 +60,7 @@ public class UserTestCase {
 		user.setPassword("password");
 		user.setCountry("India");
 		user.setAddress("Hyderabad");
-		user.setRole("ROLE_USER");
+		user.setRole("ROLE_ADMIN");
 		user.setContact("9490167876");
 		boolean flag = userDAO.update(user);
 

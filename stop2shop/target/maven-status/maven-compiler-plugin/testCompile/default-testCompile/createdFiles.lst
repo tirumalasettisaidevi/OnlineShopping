@@ -1,1 +1,9 @@
+com\niit\stop2shop\testcases\AddressTestCase.class
+com\niit\stop2shop\testcases\OrderTableTestCase.class
+com\niit\stop2shop\testcases\ProductTestCase.class
+com\niit\stop2shop\testcases\UserTestCase.class
 com\niit\stop2shop\AppTest.class
+com\niit\stop2shop\testcases\CategoryTestCase.class
+com\niit\stop2shop\testcases\My_CartTestCase.class
+com\niit\stop2shop\testcases\ContactTestCase.class
+com\niit\stop2shop\testcases\SupplierTestCase.class

@@ -37,6 +37,7 @@ public class AddressTestCase {
 
 	}
 
+	@Ignore
 	@Test
 	public void createAddressTestCase() {
 		address.setId("1");
