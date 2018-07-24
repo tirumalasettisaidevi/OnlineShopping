@@ -27,7 +27,7 @@ body {
 <body>
 		
 <div class="container">
-		<h2 align="center">Please Sign In</h2>
+		<h2>Please Sign In</h2>
 		<br>
 		<br>
 		<c:url var="action" value="/j_spring_security_check" />
@@ -35,8 +35,9 @@ body {
 		
 		
 			<div class="form-group">
+			
 				<label class="control-label col-sm-2" for="id"><i class="fa fa-user" aria-hidden="true"></i> Username:</label>
-				<div class="col-sm-10">
+				<div class="col-sm-5">
 					<input type="text" class="form-control" name="id" id="id" placeholder="Enter Username" pattern=".{5,15}" title="Username must have 5 to 15 characters" required>
 				</div>
 			</div>
@@ -45,7 +46,7 @@ body {
 			
 			<div class="form-group">
 				<label class="control-label col-sm-2" for="password"><i class="fa fa-key" aria-hidden="true"></i> Password:</label>
-				<div class="col-sm-10">
+				<div class="col-sm-5">
 					<input type="password" class="form-control" name="password" id="password" placeholder="Enter password" pattern=".{5,15}" title="Password must have 5 to 15 characters" required>
 				</div>
 			</div>

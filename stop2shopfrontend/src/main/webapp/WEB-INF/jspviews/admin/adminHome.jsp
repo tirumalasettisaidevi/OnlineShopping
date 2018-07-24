@@ -4,6 +4,19 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Welcome Admin!</title>
+
+<style type="text/css">
+
+
+body { 
+  background: url(https://images.pexels.com/photos/850796/pexels-photo-850796.jpeg?cs=srgb&dl=background-design-marble-850796.jpg&fm=jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+</style>
 </head>
 <body>
 

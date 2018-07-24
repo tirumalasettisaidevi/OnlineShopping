@@ -6,13 +6,19 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Manage Categories</title>
+
+<style type="text/css">
+
+label{text-align: left;}
+
+</style>
 </head>
 <body>
 
 
 
 	<div class="container">
-		<div class="h2">Manage Categories</div>
+		<div class="h2" align="center">Manage Categories</div>
 
 		
 		<c:if test="${isAdminClickedManageCategoryEdit=='true'}">
