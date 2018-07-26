@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import org.hibernate.validator.constraints.NotEmpty;
 import org.springframework.stereotype.Component;
 
 
@@ -17,6 +18,7 @@ public class User {
 	private String id;
 	
 	private String name;
+	@NotEmpty
 	private String email;
 	private String country;
 	private String address;

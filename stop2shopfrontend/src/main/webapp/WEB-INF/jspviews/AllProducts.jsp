@@ -31,10 +31,19 @@
 									<i class="fa fa-inr" aria-hidden="true"></i> ${product.price}
 								</div>
 							</div>
+						
+							<%-- Quantity:
+								<input type="number" id="quant" value="${cart.quantity}"/>
+								 --%>
+								
 							<div class="row">
 								<div>
 									
 									<c:if test="${isUserLoggedIn=='true'}">
+									
+									
+								Quantity:<input type="number" id="quant" value="${cart.quantity}" size=10>
+									
 										<a href="myCart-add/${product.id}" class="btn btn-success">
 											Add to cart <i class="fa fa-cart-plus" aria-hidden="true"></i>
 										</a>

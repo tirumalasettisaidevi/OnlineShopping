@@ -16,8 +16,8 @@
 						<li data-target="#myCarousel" data-slide-to="1"></li>
 						<li data-target="#myCarousel" data-slide-to="2"></li>
 						<li data-target="#myCarousel" data-slide-to="3"></li>
-						<li data-target="#myCarousel" data-slide-to="4"></li>
-						<li data-target="#myCarousel" data-slide-to="5"></li>
+						<!-- <li data-target="#myCarousel" data-slide-to="4"></li>
+						<li data-target="#myCarousel" data-slide-to="5"></li> -->
 					</ol>
 
 					<div class="carousel-inner">
@@ -43,7 +43,7 @@
 								<img src="<c:url value="/resources/images/img3.jpg" />" alt="Image 3" style="width:100%;height:500px;">
 							</a>
 						</div>
-						<div class="item">
+						<%-- <div class="item">
 							<a href="">
 								<img src="<c:url value="/resources/images/img4.jpg" />" alt="Image 4" style="width:100%;height:500px;">
 							</a>
@@ -53,7 +53,7 @@
 								<img src="<c:url value="/resources/images/img5.jpg" />" alt="Image 5" style="width:100%;height:500px;">
 							</a>
 						</div>
-
+ --%>
 					</div>
 
 					<a href="#myCarousel" data-slide="prev" class="left carousel-control">

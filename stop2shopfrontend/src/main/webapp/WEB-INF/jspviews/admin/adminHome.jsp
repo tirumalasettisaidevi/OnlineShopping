@@ -9,7 +9,7 @@
 
 
 body { 
-  background: url(https://images.pexels.com/photos/850796/pexels-photo-850796.jpeg?cs=srgb&dl=background-design-marble-850796.jpg&fm=jpg) no-repeat center center fixed; 
+  background: url(https://images.pexels.com/photos/733852/pexels-photo-733852.jpeg?cs=srgb&dl=above-art-background-733852.jpg&fm=jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
