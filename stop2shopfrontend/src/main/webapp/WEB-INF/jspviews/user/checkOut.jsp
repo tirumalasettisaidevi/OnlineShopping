@@ -16,8 +16,8 @@
 		</div>
 
 		<div class="h2 text-success text-center">You are cool!</div>
-		<div class="h2 text-center">Thank you for Shopping at Stop2Shop. The amount of <b class="text-success"><i class="fa fa-inr" aria-hidden="true"></i> ${totalAmount}</b> will be received at the time of delivery.</div>
-		<div class="h2 text-center">The product will be delivered in 5-8 business days.</div>
+		<div class="h2 text-center">Thank you for Shopping at Stop2Shop. The amount of <b class="text-success"><i class="fa fa-inr" aria-hidden="true"></i> ${totalAmount}</b> is successfully received</div>
+		<div class="h2 text-center">Ordered product will be delivered within 3-4 working  days.</div>
 
 		<img src="<c:url value="/resources/images/Thank You.gif" />" alt="Thank You GIF" class="img-responsive center-block" />
 

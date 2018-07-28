@@ -94,6 +94,10 @@
 		<jsp:include page="user/Payment.jsp"></jsp:include>
 	</c:if>	
 	
+	<c:if test="${isUserCheckedOut=='true'}">
+		<jsp:include page="user/checkOut.jsp"></jsp:include>
+	</c:if>	
+	
 	
 	<jsp:include page="Footer.jsp"></jsp:include>
 

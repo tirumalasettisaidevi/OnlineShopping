@@ -93,7 +93,7 @@ background: url(https://images.pexels.com/photos/462368/pexels-photo-462368.jpeg
                 </li>
             </ul>
             <br/>
-            <a href="generateReceipt" class="btn btn-success btn-lg btn-block" role="button">Confirm Payment</a>
+            <a href="checkout" class="btn btn-success btn-lg btn-block" role="button">Confirm Payment</a>
         </div>
     </div>
 </div>

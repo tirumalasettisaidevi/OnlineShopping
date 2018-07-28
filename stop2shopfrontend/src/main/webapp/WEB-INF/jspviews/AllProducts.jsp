@@ -42,7 +42,7 @@
 									<c:if test="${isUserLoggedIn=='true'}">
 									
 									
-								Quantity:<input type="number" id="quant" value="${cart.quantity}" size=10>
+								<%-- Quantity:<input type="number" id="quant" value="${cart.quantity}" size=10> --%>
 									
 										<a href="myCart-add/${product.id}" class="btn btn-success">
 											Add to cart <i class="fa fa-cart-plus" aria-hidden="true"></i>
